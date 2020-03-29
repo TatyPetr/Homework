@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f5895338-ad93-4c97-bc1b-15d0e029a532" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Zd6bLIbGAxyJL4kEecUTQYs23K" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.Task_5">
+    <configuration name="Task_3_1_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task_3_1_2" />
+      <module name="Task2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task_3_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task_3_2" />
+      <module name="Task2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task_4" />
+      <module name="Task2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task_4_b" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task_4_b" />
+      <module name="Task2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task_5" />
+      <module name="Task2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Task_5" />
+        <item itemvalue="Application.Task_4_b" />
+        <item itemvalue="Application.Task_4" />
+        <item itemvalue="Application.Task_3_2" />
+        <item itemvalue="Application.Task_3_1_2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5895338-ad93-4c97-bc1b-15d0e029a532" name="Default Changelist" comment="" />
+      <created>1585156693156</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585156693156</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="484" y="254" width="397" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1585505067319">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="484" y="254" width="397" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1585505067319" />
+    <state x="463" y="121" key="FileChooserDialogImpl" timestamp="1585497346081">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1585497346081" />
+    <state width="1322" height="217" key="GridCell.Tab.0.bottom" timestamp="1585514708505">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585514708505" />
+    <state width="1322" height="217" key="GridCell.Tab.0.center" timestamp="1585514708505">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585514708505" />
+    <state width="1322" height="217" key="GridCell.Tab.0.left" timestamp="1585514708505">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585514708505" />
+    <state width="1322" height="217" key="GridCell.Tab.0.right" timestamp="1585514708505">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585514708505" />
+    <state width="1322" height="217" key="GridCell.Tab.1.bottom" timestamp="1585514708506">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585514708506" />
+    <state width="1322" height="217" key="GridCell.Tab.1.center" timestamp="1585514708506">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1585514708506" />
+    <state width="1322" height="217" key="GridCell.Tab.1.left" timestamp="1585514708505">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1585514708505" />
+    <state width="1322" height="217" key="GridCell.Tab.1.right" timestamp="1585514708506">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1585514708506" />
+    <state width="691" height="372" key="XDebugger.FullValuePopup" timestamp="1585496451999">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="691" height="372" key="XDebugger.FullValuePopup/0.0.1366.728@0.0.1366.728" timestamp="1585496451999" />
+    <state x="387" y="264" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1585497725275">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="387" y="264" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.728@0.0.1366.728" timestamp="1585497725275" />
+    <state x="65" y="0" key="new project wizard" timestamp="1585485414204">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1585485414204" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/Downloads/All-Homeworks-of-JC1-37-20-master(1)/All-Homeworks-of-JC1-37-20-master/Homework 3/src/homework3/ArraysSort.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/Downloads/All-Homeworks-of-JC1-37-20-master(1)/All-Homeworks-of-JC1-37-20-master/Homework 3/src/homework3/ArraysSort.java</url>
+          <line>118</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/Downloads/All-Homeworks-of-JC1-37-20-master(1)/All-Homeworks-of-JC1-37-20-master/Homework 3/src/homework3/ArraysCycles.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
