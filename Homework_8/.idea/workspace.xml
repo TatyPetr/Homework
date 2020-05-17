@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4271c130-764c-4970-bb1d-7bd038f371c6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1c2Ivruhp53pF7d2Ek9NZbnxi1B" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.MainWriteObject">
+    <configuration name="MainReadObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainReadObject" />
+      <module name="Homework_8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainWriteObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainWriteObject" />
+      <module name="Homework_8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainWriteObject" />
+        <item itemvalue="Application.MainReadObject" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4271c130-764c-4970-bb1d-7bd038f371c6" name="Default Changelist" comment="" />
+      <created>1589720494536</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589720494536</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="445" y="176" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589723776202">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="445" y="176" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1589723776202" />
+    <state x="486" y="75" key="#com.intellij.ide.util.MemberChooser" timestamp="1589723370626">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="486" y="75" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1589723370626" />
+    <state width="1306" height="169" key="GridCell.Tab.0.bottom" timestamp="1589723934807">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="169" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589723934807" />
+    <state width="1306" height="169" key="GridCell.Tab.0.center" timestamp="1589723934806">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="169" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589723934806" />
+    <state width="1306" height="169" key="GridCell.Tab.0.left" timestamp="1589723934806">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="169" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589723934806" />
+    <state width="1306" height="169" key="GridCell.Tab.0.right" timestamp="1589723934806">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="169" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589723934806" />
+    <state x="411" y="128" width="540" height="486" key="extract.method.dialog" timestamp="1589722555097">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="411" y="128" width="540" height="486" key="extract.method.dialog/0.0.1366.728@0.0.1366.728" timestamp="1589722555097" />
+  </component>
+</project>
